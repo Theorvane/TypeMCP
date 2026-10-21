@@ -97,7 +97,7 @@
 	"dependencies": {
 		"@hono/node-server": "2.1.1",
 		"@modelcontextprotocol/client": "2.0.0",
-		"@modelcontextprotocol/server": "2.0.0",
+		"@modelcontextprotocol/server": "2.3.0",
 		"zod": "^4.4.3"
 	},
 	"overrides": {
